@@ -1,0 +1,10 @@
+{
+  "id": "export-to-rtf",
+  "name": "Export to RTF",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Export Obsidian notes to RTF with support for headings, lists, tables, callouts, inline styles, links, and image placeholders.",
+  "author": "Kaelan & Airiel",
+  "authorUrl": "https://github.com/larikaweb/Obsidian-export-to-rtf",
+  "isDesktopOnly": false
+}
