@@ -1,6 +1,6 @@
 # Export to RTF (Obsidian Plugin)
 
-*[Read in English](./README.md)*
+*[Read in English](README.md)*
 
 ## 📖 Описание
 Плагин для [Obsidian](https://obsidian.md), позволяющий **конвертировать заметки в формат RTF** (Rich Text Format).  
@@ -121,3 +121,4 @@
 ## 📄 Лицензия
 MIT License  
 Автор: Ekaterina Larionova, 2025
+
