@@ -1,6 +1,6 @@
 # Export to RTF (Obsidian Plugin)
 
-*[Читать на русском](./README_RU.md)*
+*[Читать на русском](readme_ru.md)*
 
 ## 📖 Description
 A plugin for [Obsidian](https://obsidian.md) that allows you to **export notes to RTF** (Rich Text Format).  
@@ -121,3 +121,4 @@ Available under **Settings → Export to RTF**:
 ## 📄 License
 MIT License  
 Author: Ekaterina Larionova, 2025
+
